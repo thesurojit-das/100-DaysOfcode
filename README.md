@@ -7,4 +7,5 @@
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/random.java">Random function</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/ASCII.java">ASCII value</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/sort.java">Bubble Sort </a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Peterson_no.java">Peterson Number</a></li>
   </ol>
