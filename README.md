@@ -9,4 +9,5 @@
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/sort.java">Bubble Sort </a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Peterson_no.java">Peterson Number</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Neon_no.java">Neon Number</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Tech_no.java">Tech Number</a></li>
   </ol>
