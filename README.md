@@ -12,5 +12,5 @@
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Tech_no.java">Tech Number</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/diagonal_sum.java">Diagonal Sum</a></li>
     <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/sunny_no.java">Sunny Number</a></li>  
-    <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Spy_no.java">Sunny Number</a></li>  
+    <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Spy_no.java">Spy Number</a></li>  
 </ol>
