@@ -13,4 +13,7 @@
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/diagonal_sum.java">Diagonal Sum</a></li>
     <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/sunny_no.java">Sunny Number</a></li>  
     <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Spy_no.java">Spy Number</a></li>  
+   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Krishnamurthy_Number.java">Krishnamurthy Number</a></li> 
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Odd_Even.java">Odd Even</a></li> 
+    <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Sheet_Cost.java">Sheet Cost</a></li> 
 </ol>
