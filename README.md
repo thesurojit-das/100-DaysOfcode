@@ -18,4 +18,7 @@
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Sheet_Cost.java">Sheet Cost</a></li> 
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Pattern.java">Pattern</a></li> 
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Dynamic_method_dispatch.java">Dynamic Method Dispatch</a></li> 
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Copy_array.java">Copy Array</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/SumOfArray.java">Sum Of Array</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/EqualMatrix.java">Equal Matrix</a></li>
 </ol>
