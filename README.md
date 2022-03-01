@@ -26,5 +26,4 @@
  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Linear_search.java">Linear Search</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/GrossSalary.java">Gross Salary</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/SumOfRowColumn.java">Sum_Of_Row_Column</a></li>
- <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/SumOfRowColumn.java">Sum_Of_Row_Column</a></li>
 </ol>
