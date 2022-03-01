@@ -21,4 +21,10 @@
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Copy_array.java">Copy Array</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/SumOfArray.java">Sum Of Array</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/EqualMatrix.java">Equal Matrix</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Transpose_Matrix.java">Transpose Matrix</a></li>
+ <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Transpose_Matrix.java">Transpose Matrix</a></li>
+ <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Linear_search.java">Linear Search</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/GrossSalary.java">Gross Salary</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/SumOfRowColumn.java">Sum_Of_Row_Column</a></li>
+ <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/SumOfRowColumn.java">Sum_Of_Row_Column</a></li>
 </ol>
