@@ -22,8 +22,14 @@
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/SumOfArray.java">Sum Of Array</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/EqualMatrix.java">Equal Matrix</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Transpose_Matrix.java">Transpose Matrix</a></li>
- <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Transpose_Matrix.java">Transpose Matrix</a></li>
- <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Linear_search.java">Linear Search</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Transpose_Matrix.java">Transpose Matrix</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/Linear_search.java">Linear Search</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/GrossSalary.java">Gross Salary</a></li>
   <li><a href="https://github.com/thesurojit-das/100-DaysOfcode/blob/main/SumOfRowColumn.java">Sum_Of_Row_Column</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfJava/blob/main/CountArray.java">Count Array</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfJava/blob/main/DuplicateElement.java">Duplicate Element</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfJava/blob/main/Number_to_Word.java">Number to Word</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfJava/blob/main/ReverseArray.java">Reverse Array</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfJava/blob/main/RotateLeft.java">Rotate Left Array</a></li>
+  <li><a href="https://github.com/thesurojit-das/100-DaysOfJava/blob/main/SumOfNaturalNumber.java">Sum Of Natural Number</a></li>
 </ol>
